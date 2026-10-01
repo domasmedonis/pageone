@@ -1,3 +1,5 @@
+![Preview](https://i.imgur.com/jvvnvXq.png)
+
 # How It Works
 
 This is a single-file browser app. The HTML, CSS, and JavaScript live in `index.html`; there is no build step, backend, API key, or package installation.
